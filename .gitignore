@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Django
+*.log
+*.pot
+*.pyc
+*.sqlite3
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Poetry
+__pypackages__/
+poetry.lock
+pyproject.toml
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.code-workspace
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.bak
+*.tmp
+*.pid
+*.dat
+
+# Compiled binaries
+*.exe
+*.out
+*.dll
+*.so
+
+# Dependency folders
+node_modules/
+bower_components/
