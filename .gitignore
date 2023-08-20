@@ -11,11 +11,6 @@ __pycache__/
 local_settings.py
 db.sqlite3
 
-# Poetry
-__pypackages__/
-poetry.lock
-pyproject.toml
-
 # Virtual Environment
 .venv/
 venv/
